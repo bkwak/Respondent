@@ -1,0 +1,19 @@
+{
+  "name": "coding_project",
+  "version": "1.0.0",
+  "description": "Respodent Take Home Coding Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkwak/Respondent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bkwak/Respondent/issues"
+  },
+  "homepage": "https://github.com/bkwak/Respondent#readme"
+}
