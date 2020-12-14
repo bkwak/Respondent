@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/bkwak/Respondent.git"
   },
-  "author": "",
+  "author": "Ben Kwak",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/bkwak/Respondent/issues"
