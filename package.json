@@ -4,7 +4,8 @@
   "description": "Respodent Take Home Coding Project",
   "main": "index.js",
   "scripts": {
-    "test": "run test"
+    "start": "node index.js",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/bkwak/Respondent/issues"
   },
-  "homepage": "https://github.com/bkwak/Respondent#readme"
+  "homepage": "https://github.com/bkwak/Respondent#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
 }
