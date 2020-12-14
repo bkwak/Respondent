@@ -2,7 +2,8 @@
  * ************************************
  *
  * @module  index
- * @description 
+ * @description entry point- fixes absolute file paths of the program json data
+ *              and respondent's csv data and passes them to the candidate matching algorithm
  *
  * ************************************
  */
